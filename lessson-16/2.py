@@ -7,4 +7,7 @@ for i in range(len(nums)):
         break
     elif nums[i] < target:
         index = i + 1
-print(index) 
+print(index)
+
+
+
