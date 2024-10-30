@@ -1,0 +1,4 @@
+a=int(input("a_side "))
+h=int(input('height=='))
+result=(a*h)/2
+print(result)

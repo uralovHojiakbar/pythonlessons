@@ -1,0 +1,5 @@
+
+r=int(input('r==')) 
+п=3.14159
+result=(r*r)*п
+print(result)

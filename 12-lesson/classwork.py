@@ -1,0 +1,8 @@
+names=('Father','Mother','Me','little brother') 
+names=list(names)
+names.append('Dog')
+names.append('Cat')
+names.insert(0,'uncle')
+names.insert(1,'aunt')
+names=tuple(names)
+print(names)

@@ -1,0 +1,4 @@
+a=int(input('a=='))
+b=int(input('b=='))
+result=(a*a)+(2*a*b)+(b*b)
+print(result)

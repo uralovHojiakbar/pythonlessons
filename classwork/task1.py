@@ -1,0 +1,7 @@
+char=input('enter the element ')
+print(f"      {char}")
+print(f"     {char*3}")
+print(f"    {char*5}")
+print(f"   {char*7}")
+print(f"  {char*9}")
+print(f"      {char}")
